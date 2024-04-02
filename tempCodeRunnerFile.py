@@ -1,0 +1,13 @@
+print("Positive indexing:")
+# print(f"Element 1: {my_tuple[0]}")
+# print(f"Element 2: {my_tuple[1]}")
+# print(f"Element 3: {my_tuple[2]}")
+# print(f"Element 4: {my_tuple[3]}")
+# print(f"Element 5: {my_tuple[4]}")
+
+# print("\nNegative indexing:")
+# print(f"Element -1: {my_tuple[-1]}")
+# print(f"Element -2: {my_tuple[-2]}")
+# print(f"Element -3: {my_tuple[-3]}")
+# print(f"Element -4: {my_tuple[-4]}")
+# print(f"Element -5: {my_tuple[-5]}")
